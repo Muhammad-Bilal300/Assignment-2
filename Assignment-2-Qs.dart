@@ -287,6 +287,8 @@ print(10==2);
 // Where, Net Amount Payable (within Due Date) = Number of units * Charges per unit
 // & Gross Amount Payable (after Due Date) = Net Amount + Late Payment Surcharge 
 
+ // Answer: 
+  
 var Customer_name = "Muhammad Bilal";
 var currentMonth = "September";
 num number_of_Units = 150;
